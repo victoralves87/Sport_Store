@@ -16,22 +16,3 @@ for(var i=0;i<elementos.length;i++){
 
 }
 */
-
-function grande(){
-    let div =document.getElementById('aumenta')
-    div.style.width = "300px"
-}
-
-
-function grande(){
-    let div =document.getElementById('chama')
-    div.style.width = "300px"
-}
-
-
-function grande(){
-    let div =document.getElementById('arroz')
-    div.style.width = "300px"
-}
-
-
